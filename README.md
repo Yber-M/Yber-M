@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Yb.M💻</h1><h3 align="center">
+<h1 align="center">Hola 👋, soy Yb.M💻</h1><h3 align="justify">
 Soy una persona dedicada y apasionada, comprometida con el aprendizaje y el crecimiento continuo, durante estos 3 años que llevo en la carrera de Ing.Sistemas he desarrollado una sólida base de conocimientos y habilidades. Me destaco en la resolución de problemas y la búsqueda de soluciones innovadoras. Mi capacidad para analizar situaciones complejas y encontrar enfoques creativos me permite enfrentar desafíos con confianza y eficacia.</h3>
 
 - Actualmente estoy trabajando en [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
