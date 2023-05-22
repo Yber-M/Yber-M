@@ -44,6 +44,9 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+</div>
+
+<div align="justify"> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&locale=en&layout=compact" alt="yber-m" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&locale=en" alt="yber-m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yber-m&" alt="yber-m" /></p>
