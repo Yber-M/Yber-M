@@ -12,7 +12,7 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 - 📧 💬 📥 Mail: **ybermarlon@gmail.com**
 
-- 📄 🔭 📫 Conoce mis experiencias -> [CV](https://github.com/ApoTheddy/Globtecx-Learning)
+- 📄 🔭 📫 Conoce mis experiencias -> [CV](CV-YB.M.doc.pdf)
 
 <h3 align="center">Conéctate conmigo:</h3>
 
