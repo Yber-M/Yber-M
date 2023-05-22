@@ -1,14 +1,20 @@
 <div align="center"> 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="300"> </img>
 </div>
-<h1 align="center">Hola👋, soy Yb.M</h1><h3 align="justify">
-I am a dedicated and passionate person, committed to learning and continuous growth, during these 3 years that I have been in the career of Ing.Sistemas I have developed a solid base of knowledge and skills. I excel at solving problems and finding innovative solutions. My ability to analyze complex situations and find creative approaches allows me to face challenges confidently and effectively.</h3>
 
+<h1 align="center">Hola👋, soy Yb.M</h1>
+
+<h3 align="justify">
+I am a dedicated and passionate person, committed to learning and continuous growth, during these 3 years that I have been in the career of Ing.Sistemas I have developed a solid base of knowledge and skills. I excel at solving problems and finding innovative solutions. My ability to analyze complex situations and find creative approaches allows me to face challenges confidently and effectively.
+</h3>
+
+<ls>
 - I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
 - 📧Mail: **ybermarlon@gmail.com**
 
 - 📄 🔭 📫 Conoce mis experiencias -> [CV](https://github.com/ApoTheddy/Globtecx-Learning)
+  </ls>
 
 <h3 align="center">Conéctate conmigo:</h3>
 
