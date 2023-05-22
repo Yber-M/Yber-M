@@ -6,9 +6,9 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 - Actualmente estoy trabajando en [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
-- Correo **ybermarlon@gmail.com**
+- 📧Mail: **ybermarlon@gmail.com**
 
-- 📄 🔭 📫 Conoce mis experiencias [https://drive.google.com/file/d/1a9_2ANvZMGjUnkC8LRQ6B8IiiVTHGgJY/view?usp=sharing] (https://drive.google.com/file/d/1a9_2ANvZMGjUnkC8LRQ6B8IiiVTHGgJY/view?usp=sharing)
+- 📄 🔭 📫 Conoce mis experiencias -> [CV](https://github.com/ApoTheddy/Globtecx-Learning)
 
 <h3 align="center">Conéctate conmigo:</h3><p align="center">
 
