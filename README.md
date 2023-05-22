@@ -8,15 +8,13 @@
 I am a dedicated and passionate person, committed to learning and continuous growth, during these 3 years that I have been in the career of Ing.Sistemas I have developed a solid base of knowledge and skills. I excel at solving problems and finding innovative solutions. My ability to analyze complex situations and find creative approaches allows me to face challenges confidently and effectively.
 </h3>
 
-- I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
+- 💼 📊 👨‍💻 I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
-- 📧Mail: **ybermarlon@gmail.com**
+- 📧 💬 📥 Mail: **ybermarlon@gmail.com**
 
 - 📄 🔭 📫 Conoce mis experiencias -> [CV](https://github.com/ApoTheddy/Globtecx-Learning)
 
 <h3 align="center">Conéctate conmigo:</h3>
-
-<div align="center">
 
 <a href="https://twitter.com/@yber_mqo" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yber_mqo" height="30" width="40" />
@@ -27,11 +25,10 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 <a href="https://discord.gg/https://discord.gg/ZK7bqFkydR" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZK7bqFkydR" height="30" width="40" /></a></p>
 
-</div>
-
 <h3 align="center">Lenguajes y herramientas:</h3>
 
-<div align="center"> 
+<!-- <div align="center">  -->
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -48,7 +45,7 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-</div>
+<!-- </div> -->
 
 <div align="justify"> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&locale=en&layout=compact" alt="yber-m" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&locale=en" alt="yber-m" /></p>
