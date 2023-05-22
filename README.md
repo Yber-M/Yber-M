@@ -8,25 +8,24 @@
 I am a dedicated and passionate person, committed to learning and continuous growth, during these 3 years that I have been in the career of Ing.Sistemas I have developed a solid base of knowledge and skills. I excel at solving problems and finding innovative solutions. My ability to analyze complex situations and find creative approaches allows me to face challenges confidently and effectively.
 </h3>
 
-<h4> 
 - I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
 - 📧Mail: **ybermarlon@gmail.com**
 
 - 📄 🔭 📫 Conoce mis experiencias -> [CV](https://github.com/ApoTheddy/Globtecx-Learning)
-</h4>
 
 <h3 align="center">Conéctate conmigo:</h3>
 
 <div align="center">
 
-<a href="https://twitter.com/@yber_mqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yber_mqo" height="30" width="40" />
+<a href="https://twitter.com/@yber_mqo" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yber_mqo" height="30" width="40" />
 
 </a>
 
-<a href="https://linkedin.com/in/marlon-yber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon-yber" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marlon-yber" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon-yber" height="30" width="40" /></a>
 
-<a href="https://discord.gg/https://discord.gg/ZK7bqFkydR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZK7bqFkydR" height="30" width="40" /></a></p>
+<a href="https://discord.gg/https://discord.gg/ZK7bqFkydR" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZK7bqFkydR" height="30" width="40" /></a></p>
 
 </div>
 
