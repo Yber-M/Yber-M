@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, soy Yb.M💻</h1><h3 align="center">
-Soy una persona dedicada y apasionada, comprometida con el aprendizaje y el crecimiento continuo, durante estos 3 años que llevo en la carrera de Ing.Sistemas he desarrollado una sólida base de conocimientos y habilidades. Me destaco en la resolución de problemas y la búsqueda de soluciones innovadoras. Mi capacidad para analizar situaciones complejas y encontrar enfoques creativos me permite enfrentar desafíos con confianza y eficacia.</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=yber-m&label=Profile%20views&color=0e75b6&style=flat" alt="yber-m" /> </p><
-
-p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yber-m" alt="yber-m" /></a> </p>
+Soy una persona dedicada y apasionada, comprometida con el aprendizaje y el crecimiento continuo, durante estos 3 años que llevo en la carrera de Ing.Sistemas he desarrollado una sólida base de conocimientos y habilidades. Me destaco en la resolución de problemas y la búsqueda de soluciones innovadoras. Mi capacidad para analizar situaciones complejas y encontrar enfoques creativos me permite enfrentar desafíos con confianza y eficacia.</h3>
 
 - Actualmente estoy trabajando en [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
-- Cómo llegar **ybermarlon@gmail.com**
+- Correo **ybermarlon@gmail.com**
 
 - 📄 🔭 📫 Conoce mis experiencias [https://drive.google.com/file/d/1a9_2ANvZMGjUnkC8LRQ6B8IiiVTHGgJY/view?usp=sharing] (https://drive.google.com/file/d/1a9_2ANvZMGjUnkC8LRQ6B8IiiVTHGgJY/view?usp=sharing)
 
