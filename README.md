@@ -8,13 +8,11 @@
 I am a dedicated and passionate person, committed to learning and continuous growth, during these 3 years that I have been in the career of Ing.Sistemas I have developed a solid base of knowledge and skills. I excel at solving problems and finding innovative solutions. My ability to analyze complex situations and find creative approaches allows me to face challenges confidently and effectively.
 </h3>
 
-<ls>
 - I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
 - 📧Mail: **ybermarlon@gmail.com**
 
 - 📄 🔭 📫 Conoce mis experiencias -> [CV](https://github.com/ApoTheddy/Globtecx-Learning)
-  </ls>
 
 <h3 align="center">Conéctate conmigo:</h3>
 
