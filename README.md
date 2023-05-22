@@ -3,11 +3,10 @@ Actualmente cursando la carrera de Ing.Sistemas. A la fecha de 21/05/2023 me enc
 
 ### Entradas de blogs
 
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END --
-
-> <h3 align="left">Conéctate conmigo:</h3><
-> p align="left">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
 
 <a href="https://dev.to/{yb.m};" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="{yb.m};" height="30" width="40" /></a><a href="https://linkedin.com/in/marlon-yber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon-yber" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3>
 
@@ -15,4 +14,4 @@ BLOG-POST-LIST:END --
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&locale=en&layout=compact" alt="yber-m" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&locale=en" alt="yber-m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yber-m&" alt="yber-m" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yber-m&" alt="yber-m" /></p>
