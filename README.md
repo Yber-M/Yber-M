@@ -14,9 +14,10 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 - 📄 🔭 📫 Conoce mis experiencias -> [CV](CV-YB.M.doc.pdf)
 
-<h3 align="center">Conéctate conmigo:</h3>
+### Conéctate Conmigo
 
 <a href="https://twitter.com/@yber_mqo" target="blank">
+
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yber_mqo" height="30" width="40" />
 
 </a>
@@ -25,7 +26,7 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 <a href="https://discord.gg/https://discord.gg/ZK7bqFkydR" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZK7bqFkydR" height="30" width="40" /></a></p>
 
-<h3 align="center">Lenguajes y herramientas:</h3>
+### Lenguajes y herramientas:
 
 <!-- <div align="center">  -->
 
