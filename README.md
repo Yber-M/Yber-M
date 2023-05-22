@@ -12,8 +12,8 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 <h3 align="center">Conéctate conmigo:</h3>
 
-<div align="center"> 
-<p align="center">
+<div align="center">
+
 <a href="https://twitter.com/@yber_mqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yber_mqo" height="30" width="40" />
 
 </a>
@@ -22,7 +22,6 @@ I am a dedicated and passionate person, committed to learning and continuous gro
 
 <a href="https://discord.gg/https://discord.gg/ZK7bqFkydR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZK7bqFkydR" height="30" width="40" /></a></p>
 
-<p align="center">
 </div>
 
 <h3 align="center">Lenguajes y herramientas:</h3>
