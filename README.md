@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="200"> </img>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="720"> </img>
 </div>
 <h1 align="center">Hola 👋, soy Yb.M💻</h1><h3 align="justify">
 Soy una persona dedicada y apasionada, comprometida con el aprendizaje y el crecimiento continuo, durante estos 3 años que llevo en la carrera de Ing.Sistemas he desarrollado una sólida base de conocimientos y habilidades. Me destaco en la resolución de problemas y la búsqueda de soluciones innovadoras. Mi capacidad para analizar situaciones complejas y encontrar enfoques creativos me permite enfrentar desafíos con confianza y eficacia.</h3>
