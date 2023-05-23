@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="230"> </img>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="620"> </img>
 </div>
 
 <h1 align="center">Hello world!👋, I'm Yb.M</h1>
@@ -12,7 +12,7 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 ### 😼 Key facts about me:
 
 <div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="620"> </img>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="230"> </img>
 </div>
 
 - 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/ApoTheddy/Globtecx-Learning)
