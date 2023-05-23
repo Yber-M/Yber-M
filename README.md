@@ -13,7 +13,7 @@ So I invite you to join me on this exciting journey to success! 🚀🤝
 
 ## 😼 Key facts about me:
 
-- 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/ApoTheddy/Globtecx-Learning)
+- 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/Yber-M/GlobTecx-Hackathon)
 
 - 📧 💬 📥 My email address is **ybermarlon@gmail.com**
 
