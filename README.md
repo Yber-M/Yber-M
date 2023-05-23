@@ -9,6 +9,10 @@ My name is Marlon and I am currently a student of Systems Engineering in the 4th
 I am passionate about technology and its potential to solve real-world problems. 💡💻
 Throughout my studies, I have acquired a solid foundation in programming, software development, and system analysis. 💪🖥️🔍</h3><p align="center"><img src="https://komarev.com/ghpvc/?username=yber-m&label=Profile%20views&color=1f1f1f&style=flat" alt="yber-m"/></p>
 
+<div align="center"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="680"> </img>
+</div>
+
 ---
 
 ### 😼 Key facts about me:
@@ -20,10 +24,6 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 - 📄 🔭 🦾 Learn about my experiences below -> [CV](CV-YB.M.doc.pdf)
 
 - 🌲 📄 🟢This is my Linktree -> [Linktree](https://linktr.ee/yber.m)
-
-<div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="680"> </img>
-</div>
 
 ---
 
