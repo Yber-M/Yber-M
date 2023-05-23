@@ -11,6 +11,10 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 
 ### 😼 Key facts about me:
 
+<div align="center"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="620"> </img>
+</div>
+
 - 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/ApoTheddy/Globtecx-Learning)
 
 - 📧 💬 📥 My email address is **ybermarlon@gmail.com**
@@ -18,10 +22,6 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 - 📄 🔭 🦾 Learn about my experiences below -> [CV](CV-YB.M.doc.pdf)
 
 - 🌲 📄 🟢This is my Linktree -> [Linktree](https://linktr.ee/yber.m)
-
-<div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="620"> </img>
-</div>
 
 ## 📭 Connect with me:
 
@@ -40,5 +40,6 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yber-m" />
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&theme=dracula&locale=en" alt="yber-m" /></p>
 </p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yber-m&theme=dark" alt="yber-m" /></p>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yber-M&theme=github-dark)](https://git.io/streak-stats)
