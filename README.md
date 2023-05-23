@@ -11,10 +11,6 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 
 ## 😼 Key facts about me:
 
-<div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="230"> </img>
-</div>
-
 - 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/ApoTheddy/Globtecx-Learning)
 
 - 📧 💬 📥 My email address is **ybermarlon@gmail.com**
@@ -25,6 +21,9 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 
 ## 📭 Connect with me:
 
+<div align="center"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="230"> </img>
+</div>
 <p align="center"><a href="https://twitter.com/yber_mqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yber_mqo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marlon-yber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marlon-yber" height="30" width="40" /></a>
 <a href="https://instagram.com/marlon_yqp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marlon_yqp" height="30" width="40"/></a>
