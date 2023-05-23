@@ -19,6 +19,8 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 
 - 📄 🔭 🦾 Learn about my experiences below -> [CV](CV-YB.M.doc.pdf)
 
+---
+
 ## 📭 Connect with me:
 
 <p align="center"><a href="https://twitter.com/yber_mqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yber_mqo" height="30" width="40" /></a>
