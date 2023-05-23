@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola👋, soy Yb.M</h1>
 
-<h3 align="center">Welcome to my GitHub! My name is Marlon and I am currently a student of Systems Engineering in the 4th cycle. I am passionate about technology and its potential to solve real-world problems. Throughout my studies, I have acquired a solid foundation in programming, software development, and system analysis. I enjoy tackling complex challenges and finding innovative solutions. I am a quick learner and always eager to stay updated with the latest advancements in the field. With a collaborative mindset and excellent problem-solving skills, I am confident in my ability to contribute effectively to any team or project.</h3>
+<h3 align="center">Welcome to my GitHub! My name is Marlon and I am currently a student of Systems Engineering in the 4th cycle. I am passionate about technology and its potential to solve real-world problems. Throughout my studies, I have acquired a solid foundation in programming, software development, and system analysis.</h3>
 
 - 💼 📊 👨‍💻 I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
@@ -23,8 +23,6 @@
 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&theme=dracula&locale=en" alt="yber-m" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yber-m" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yber-m&theme=dark" alt="yber-m" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yber-m" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&theme=dracula&locale=en" alt="yber-m" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yber-m&theme=dark" alt="yber-m" /></p>
