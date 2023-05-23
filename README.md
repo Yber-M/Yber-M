@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="300"> </img>
 </div>
 
-<h1 align="center">Hola👋, soy Yb.M</h1>
+<h1 align="center">Hello world!👋, I'm Yb.M</h1>
 
 <h3 align="center">🌟 Welcome to my GitHub! 🚀
 My name is Marlon and I am currently a student of Systems Engineering in the 4th cycle. 🔬🎓
