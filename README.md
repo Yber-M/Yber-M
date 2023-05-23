@@ -2,9 +2,9 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFlY2Y4N2ZiNDg5NzljOGQ5MGZjNjNlNWJlMTQ3ZDYwNDJkZjhlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/EeFLzr9QxWYqTDsH7r/giphy.gif" width="100%"> </img>
 </div>
 
-<h1 align="center">Hello world!👋, I'm Yb.M</h1>
+<h1 align="center">🌟 ¡Bienvenido a mi GitHub! 🚀</h1>
 
-<h3 align="center">🌟 Welcome to my GitHub! 🚀 I'm Marlon, a 4th cycle Systems Engineering student. 🔬🎓
+<h3 align="center">I'm Yber-M, a 4th cycle Systems Engineering student. 🔬🎓
 My passion is technology and its power to solve real-world problems. 💡💻
 During my academic career, I acquire a solid foundation in programming, software development and systems analysis. 💪🖥️🔍
 I am honored to be the founder of GLOBTECx, a future company that aspires to make a difference in the world, together with an exceptional team! 💼🌍💡
