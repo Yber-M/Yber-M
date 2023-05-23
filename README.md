@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="580"> </img>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JlY2JiODc4ZWEyMzg0OThiN2YzNGE0MmQwZjgxMjZhNTRiYWY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/yyLjPg1wlIoEzt9scE/giphy.gif" width="580"> </img>
 </div>
 
 <h1 align="center">Hello world!👋, I'm Yb.M</h1>
@@ -37,8 +37,6 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 ## 📈 GitHub analytics:
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yber-m" />
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&theme=dracula&locale=en" alt="yber-m" /></p>
-</p>
 <p><img src="http://github-readme-streak-stats.herokuapp.com?user=Yber-M&theme=github-dark" alt="yber-m" /></p>
+
 </div>
