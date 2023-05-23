@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFlY2Y4N2ZiNDg5NzljOGQ5MGZjNjNlNWJlMTQ3ZDYwNDJkZjhlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/EeFLzr9QxWYqTDsH7r/giphy.gif" width="100%"> </img>
 </div>
 
-<h1 align="center">🌟 ¡Bienvenido a mi GitHub! 🚀</h1>
+<h1 align="center">🌟 Welcome to my GitHub! 🚀</h1>
 
 <h3 align="center">I'm Yber-M, a 4th cycle Systems Engineering student. 🔬🎓
 My passion is technology and its power to solve real-world problems. 💡💻
