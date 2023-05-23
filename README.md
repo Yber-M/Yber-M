@@ -9,7 +9,7 @@ My name is Marlon and I am currently a student of Systems Engineering in the 4th
 I am passionate about technology and its potential to solve real-world problems. 💡💻
 Throughout my studies, I have acquired a solid foundation in programming, software development, and system analysis. 💪🖥️🔍</h3><p align="center"><img src="https://komarev.com/ghpvc/?username=yber-m&label=Profile%20views&color=1f1f1f&style=flat" alt="yber-m"/></p>
 
-## 😼 Key facts about me
+## 😼 Key facts about me:
 
 - 💼 📊 👨‍💻 I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
 
@@ -17,7 +17,7 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 
 - 📄 🔭 🦾 Learn about my experiences below -> [CV](CV-YB.M.doc.pdf)
 
-## 📭 Connect with me
+## 📭 Connect with me:
 
 <p align="center"><a href="https://twitter.com/yber_mqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yber_mqo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marlon-yber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marlon-yber" height="30" width="40" /></a>
