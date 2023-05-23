@@ -40,6 +40,5 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yber-m" />
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&theme=dracula&locale=en" alt="yber-m" /></p>
 </p>
+<p><img src="http://github-readme-streak-stats.herokuapp.com?user=Yber-M&theme=github-dark" alt="yber-m" /></p>
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yber-M&theme=github-dark)](https://git.io/streak-stats)
