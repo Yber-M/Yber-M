@@ -9,12 +9,6 @@ My name is Marlon and I am currently a student of Systems Engineering in the 4th
 I am passionate about technology and its potential to solve real-world problems. 💡💻
 Throughout my studies, I have acquired a solid foundation in programming, software development, and system analysis. 💪🖥️🔍</h3><p align="center"><img src="https://komarev.com/ghpvc/?username=yber-m&label=Profile%20views&color=1f1f1f&style=flat" alt="yber-m"/></p>
 
-<div align="center"> 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="680"> </img>
-</div>
-
----
-
 ### 😼 Key facts about me:
 
 - 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/ApoTheddy/Globtecx-Learning)
@@ -25,7 +19,9 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 
 - 🌲 📄 🟢This is my Linktree -> [Linktree](https://linktr.ee/yber.m)
 
----
+<div align="center"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif" width="680"> </img>
+</div>
 
 ## 📭 Connect with me:
 
@@ -37,8 +33,6 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 ## ⚙️ Languages and tools:
 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a></p>
-
----
 
 ## 📈 GitHub analytics:
 
