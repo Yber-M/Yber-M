@@ -4,10 +4,12 @@
 
 <h1 align="center">Hello world!👋, I'm Yb.M</h1>
 
-<h3 align="center">🌟 Welcome to my GitHub! 🚀
-My name is Marlon and I am currently a student of Systems Engineering in the 4th cycle. 🔬🎓
+<h3 align="center">
+My name is Marlon and I am currently a 4th-cycle student of Systems Engineering. 🔬🎓
 I am passionate about technology and its potential to solve real-world problems. 💡💻
-Throughout my studies, I have acquired a solid foundation in programming, software development, and system analysis. 💪🖥️🔍</h3><p align="center"><img src="https://komarev.com/ghpvc/?username=yber-m&label=Profile%20views&color=1f1f1f&style=flat" alt="yber-m"/></p>
+Throughout my studies, I have gained a solid foundation in programming, software development, and systems analysis. 💪🖥️🔍
+I am also the founder of the future company GLOBTECx, along with my amazing team! 💼🌍💡
+Join me on this exciting journey! 🚀🤝</h3><p align="center"><img src="https://komarev.com/ghpvc/?username=yber-m&label=Profile%20views&color=1f1f1f&style=flat" alt="yber-m"/></p>
 
 ## 😼 Key facts about me:
 
