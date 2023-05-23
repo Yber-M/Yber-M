@@ -13,11 +13,17 @@ Throughout my studies, I have acquired a solid foundation in programming, softwa
 
 ### 😼 Key facts about me:
 
-- 💼 📊 👨‍💻 I am currently working on [GlobTecx-bot](https://github.com/ApoTheddy/Globtecx-Learning)
+- 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/ApoTheddy/Globtecx-Learning)
 
 - 📧 💬 📥 My email address is **ybermarlon@gmail.com**
 
 - 📄 🔭 🦾 Learn about my experiences below -> [CV](CV-YB.M.doc.pdf)
+
+- 🌲 📄 🟢This is my Linktree -> [Linktree](https://linktr.ee/yber.m)
+
+<div align="center"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg0OWY1MGVjMGQ0MTg5ZTJkYjgzMjY2ZTMxMDE3ZThiYzhjYzkwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7XFYpywcimseQ5Cauq/giphy.gif"> </img>
+</div>
 
 ---
 
