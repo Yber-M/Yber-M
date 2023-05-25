@@ -39,9 +39,8 @@ So I invite you to join me on this exciting journey to success! 🚀🤝
 ## 📈 GitHub analytics:
 
 <div align="center">
-
-<p><img src="http://github-readme-streak-stats.herokuapp.com?user=Yber-M&theme=github-dark" alt="yber-m" /></p>
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=dark&layout=compact" alt="yber-m" />
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yber-m&show_icons=true&theme=dark&locale=en" alt="yber-m" /></p>
+<p><img src="http://github-readme-streak-stats.herokuapp.com?user=Yber-M&theme=dark" alt="yber-m" /></p>
 
 </div>
