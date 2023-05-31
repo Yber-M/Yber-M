@@ -9,7 +9,8 @@ My passion is technology and its power to solve real-world problems. 💡💻
 During my academic career, I acquire a solid foundation in programming, software development and systems analysis. 💪🖥️🔍
 I am honored to be the founder of GLOBTECx, a future company that aspires to make a difference in the world, together with an exceptional team! 💼🌍💡
 So I invite you to join me on this exciting journey to success! 🚀🤝
-</h3><p align="center"><img src="https://komarev.com/ghpvc/?username=yber-m&label=Profile%20views&color=1f1f1f&style=flat" alt="yber-m"/></p>
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/Yber-M?label=Follow&style=social)](https://github.com/Yber-M)
 
 ## 😼 Key facts about me:
 
