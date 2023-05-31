@@ -10,10 +10,9 @@ During my academic career, I acquire a solid foundation in programming, software
 I am honored to be the founder of GLOBTECx, a future company that aspires to make a difference in the world, together with an exceptional team! 💼🌍💡
 So I invite you to join me on this exciting journey to success! 🚀🤝
 
-<div> 
-    <a href="https://github.com/Yber-M" target="_blank"><img alt="Follow me on GitHub" src="https://img.shields.io/github/followers/Yber-M?style=social&labelColor=000000&color=darkgreen">
-    </a>
-</div>
+<p></p>
+<a href="https://github.com/Yber-M" target="_blank"><img alt="Follow me on GitHub" src="https://img.shields.io/github/followers/Yber-M?style=social"></a>
+
 
 ## 😼 Key facts about me:
 
