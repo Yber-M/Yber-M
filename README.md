@@ -42,7 +42,7 @@ So I invite you to join me on this exciting journey to success! 🚀🤝
 ## 📈 GitHub analytics:
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Yber-M&theme=android-dark&hide_border=true&border_radius=50" alt="yber-m" /> Yb.M <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=50" alt="yber-m"/> 
 
+[![Yber-M GitHub stats](https://streak-stats.demolab.com?user=Yber-M&theme=android-dark&hide_border=true&border_radius=50)](https://github.com/anuraghazra/github-readme-stats) [![Yber-M GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=50)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
