@@ -44,10 +44,11 @@ So I invite you to join me on this exciting journey to success! 🚀🤝
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="img/java.png" alt="java" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="img/javascript.png" alt="javascript" width="50" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="img/git.png" alt="git" width="50" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="img/bootstrap.png" alt="bootstrap" width="50" height="50"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="img/node.png" alt="nodejs" width="50" height="50"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="img/react.png" alt="react" width="50" height="50"/> </a>
 </p>
+
 
 ## 📈 GitHub analytics:
 
