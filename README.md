@@ -4,7 +4,7 @@
 
 <h1 align="center">🌟 Welcome to my GitHub! 🚀</h1>
 
-<h3 align="center">I'm Yber-M, a 4th cycle Systems Engineering student. 🔬🎓
+<h3 align="center">I'm Yber-M, a 5th cycle Systems Engineering student. 🔬🎓
 My passion is technology and its power to solve real-world problems. 💡💻
 During my academic career, I acquire a solid foundation in programming, software development and systems analysis. 💪🖥️🔍
 I am honored to be the founder of GLOBTECx, a future company that aspires to make a difference in the world, together with an exceptional team! 💼🌍💡
