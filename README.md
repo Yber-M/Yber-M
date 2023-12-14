@@ -4,11 +4,11 @@
 
 <h1 align="center">🌟 Welcome to my GitHub! 🚀</h1>
 
-<h3 align="center">I'm Yber-M, a 4th cycle Systems Engineering student. 🔬🎓
+<h3 align="center">I'm Yber-M, a 5th cycle Systems Engineering student. 🔬🎓
 My passion is technology and its power to solve real-world problems. 💡💻
 During my academic career, I acquire a solid foundation in programming, software development and systems analysis. 💪🖥️🔍
 I am honored to be the founder of GLOBTECx, a future company that aspires to make a difference in the world, together with an exceptional team! 💼🌍💡
-So I invite you to join me on this exciting journey to success! 🚀🤝
+So I invite you to join me on this exciting journey to success! 🚀🤝</h3>
 
 <p></p>
 <a href="https://github.com/Yber-M" target="_blank"><img alt="Follow me on GitHub" src="https://img.shields.io/github/followers/Yber-M?style=social"></a>
@@ -57,3 +57,4 @@ So I invite you to join me on this exciting journey to success! 🚀🤝
 [![Yber-M GitHub stats](https://streak-stats.demolab.com?user=Yber-M&theme=android-dark&hide_border=true&border_radius=50)](https://github.com/anuraghazra/github-readme-stats) [![Yber-M GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
