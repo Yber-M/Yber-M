@@ -19,8 +19,6 @@ So I invite you to join me on this exciting journey to success! 🚀🤝</h3>
 
 - 📧 💬 📥 My email address is **ybermarlon@gmail.com**
 
-- 📄 🔭 🦾 Learn about my experiences below -> [CV](CV_YBM.pdf)
-
 - 🌲 📱 🟢This is my Linktree -> [Linktree](https://linktr.ee/yber.m)
 
 ## 📭 Connect with me:
