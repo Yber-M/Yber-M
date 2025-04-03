@@ -58,7 +58,7 @@ So I invite you to join me on this exciting journey to success! 🚀🤝</h3>
 
 <div align="center">
 
-[![Yber-M GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=chartreuse-dark&hide_border=false&border_radius=25&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Yber-M GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yber-m&show_icons=true&theme=chartreuse-dark&hide_border=false&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Yber-M?cardType=level&theme=vue-dark&preferLogin=false&Background=DD000000&Title=1F6FEB&Ring=39D353)](https://git.io/awesome-stats-card)
