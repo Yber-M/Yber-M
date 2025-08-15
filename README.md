@@ -15,7 +15,7 @@ So I invite you to join me on this exciting journey to success! 🚀🤝</h3>
 
 ## 😼 Key facts about me:
 
-- 💼 📊 👨‍💻 I am currently working on [GLOBTECx-BOT](https://github.com/Yber-M/GlobTecx-Hackathon)
+- 💼 📊 👨‍💻 I am currently working on [Jornada Pro](https://pro.jornada.com.pe/)
 
 - 📧 💬 📥 My email address is **ybermarlon@gmail.com**
 
@@ -43,14 +43,14 @@ So I invite you to join me on this exciting journey to success! 🚀🤝</h3>
 ## ⚙️ Languages and tools:
 
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="img/html.png" alt="html5" width="50" height="50"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="img/css.png" alt="css3" width="50" height="50"/></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="img/java.png" alt="java" width="50" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="img/javascript.png" alt="javascript" width="50" height="50"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="img/git.png" alt="git" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="img/bootstrap.png" alt="bootstrap" width="48" height="47"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="img/node.png" alt="nodejs" width="48" height="47"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="img/react.png" alt="react" width="48" height="47"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="img/html.png" alt="html5" width="50" height="50"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="img/css.png" alt="css3" width="50" height="50"/></a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="img/java.png" alt="java" width="50" height="50"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="img/javascript.png" alt="javascript" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="img/git.png" alt="git" width="50" height="50"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="img/bootstrap.png" alt="bootstrap" width="48" height="47"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="img/node.png" alt="nodejs" width="48" height="47"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="img/react.png" alt="react" width="48" height="47"/></a>
 </p>
 
 
